@@ -1,4 +1,6 @@
 # Vue Custom Loading
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/ikloster03/vue-custom-loading.svg)](https://greenkeeper.io/)
 Custom full overlay loading with spinner for Vue. Select light or dark overlay and insert your spinner.
 
 ```
