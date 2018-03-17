@@ -84,7 +84,7 @@ Example of custom loader (spinner).
        data(){
            return {
                show: false,
-               overlay: 'dark,
+               overlay: 'dark',
            }
        }
     }
