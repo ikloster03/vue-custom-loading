@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/ikloster03/vue-custom-loading#readme",
   "dependencies": {
-    "vue": "^2.5.2"
+    "vue": "^2.5.17"
   },
   "devDependencies": {
     "babel-core": "^6.0.0",
